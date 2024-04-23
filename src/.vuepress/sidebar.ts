@@ -4,6 +4,13 @@ export default sidebar({
   "/": [
     "",
     {
+      text: "八股文",
+      icon: "book",
+      prefix: "baguwen/",
+      link: "demo/",
+      children: "structure",
+    },
+    {
       text: "案例",
       icon: "laptop-code",
       prefix: "demo/",
