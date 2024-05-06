@@ -1,10 +1,12 @@
 ---
-title: Java 基础
+title: test
 icon: circle-info
 author: Cheney
 date: 2024-04-10
 isOriginal: true
 category: Java
+order: 100
+index: false
 ---
 
 功能详情...
